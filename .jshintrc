@@ -8,6 +8,6 @@
         "test": true,
         "suite": true,
         "setup": true,
-		"teardown": true
+        "teardown": true
     }
 }
